@@ -43,3 +43,7 @@ Run as root is necessary because of scapy library.
 3. Input range of ports
 4. Select TCP or UDP
 5. Click 'Iniciar'
+
+### Output example
+
+![alt text](https://github.com/gabriellm1/PortScanner/blob/master/images/output_print.png)
