@@ -39,7 +39,7 @@ Run as root is necessary because of scapy library.
 ![alt text](https://github.com/gabriellm1/PortScanner/blob/master/images/rede_print.png)
 
 1. Select 'Rede'
-2. Input IP range (format example -> '192.168.1.1-192.168.1.100')
+2. Input IP range (format example: '192.168.1.1-192.168.1.100')
 3. Input range of ports
 4. Select TCP or UDP
 5. Click 'Iniciar'
